@@ -1,7 +1,7 @@
 # munsellScript
 Munsell: Because Hex codes are not meant for humans.
 
-[https://godoc.org/github.com/germ/munsell](GoDoc)
+[GoDoc]](https://godoc.org/github.com/germ/munsell)
 
 MunsellPicker is a simple way to transform sRGB colours into Munsell references and back again. Turns out, RGB is terrible for humans to wrangle their head around.
 
